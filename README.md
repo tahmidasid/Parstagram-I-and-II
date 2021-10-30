@@ -23,8 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/4d3x2Lb.gif)
 
+![Parstagram1](https://user-images.githubusercontent.com/47311945/139519270-c1ac103b-3cf6-4a6c-b102-4a7a706402d5.gif)
 
 
 # Parstagram - Part II
@@ -51,6 +51,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/OWpqBqT.gif)
+![Parstagram2](https://user-images.githubusercontent.com/47311945/139519274-37732d9b-5bbe-43ae-9865-8e755fa06400.gif)
 
 
